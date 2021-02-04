@@ -1,0 +1,26 @@
+{
+  "workout": [
+    {
+      "name": "jog",
+      "caloriesleft": 2104.7999999999997,
+      "calories": 500
+    }
+  ],
+  "name": "Peter",
+  "weight": 89,
+  "food": [
+    {
+      "name": "Pizza",
+      "caloriesleft": 1804.7999999999997,
+      "calories": 300
+    },
+    {
+      "name": "Burger",
+      "caloriesleft": 1404.7999999999997,
+      "calories": 400
+    }
+  ],
+  "age": 24,
+  "height": 1.81,
+  "calorieleft": 2104.7999999999997
+}

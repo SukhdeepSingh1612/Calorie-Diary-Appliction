@@ -1,0 +1,21 @@
+{
+  "workout": [
+    {
+      "name": "Treadmill",
+      "caloriesleft": 2104.7999999999997,
+      "calories": 200
+    }
+  ],
+  "name": "Sukhdeep",
+  "weight": 77.4,
+  "food": [
+    {
+      "name": "Pizza",
+      "caloriesleft": 2104.7999999999997,
+      "calories": 300
+    }
+  ],
+  "age": 20,
+  "height": 1.72,
+  "calorieleft": 2104.7999999999997
+}
